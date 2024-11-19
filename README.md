@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, me chamo Nicollas! 👋
+
+Sou técnico em Informática e atuo na área de T.I há 5 anos. 
+
+Atualmente estou trabalhando no time de Database Administrator na Surf Telecom. 
+
+Estou no último semestre de Ciência da Computação na Universidade Paulista.
 
 <div>
 <a href="https://github.com/jesusnicollas">
