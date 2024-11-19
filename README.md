@@ -1,10 +1,14 @@
-## Olá, me chamo Nicollas! 👋
+# Sobre Mim  
 
-Sou técnico em Informática e atuo na área de T.I há 5 anos. 
+Olá! 👋 Sou técnico em Informática e atuo na área de Tecnologia da Informação há 5 anos. Atualmente, sou **Administrador de Banco de Dados (DBA)** no time de desenvolvimento da Surf Telecom, onde trabalho para otimizar o desempenho das bases de dados, implementar melhorias e automatizar processos.  
 
-Atualmente estou trabalhando no time de Database Administrator na Surf Telecom. 
+Estou no último semestre do curso de **Ciência da Computação** pela Universidade Paulista (UNIP). Tenho experiência em:  
+- Administração de bancos de dados (MySQL, PostgreSQL).  
+- Manipulação, extração e análise de dados.  
+- Automação de processos com **PL/SQL** e **Python**.  
+- Desenvolvimento de soluções voltadas para dados e infraestrutura.  
 
-Estou no último semestre de Ciência da Computação na Universidade Paulista.
+Estou sempre buscando novas oportunidades para aprender, compartilhar conhecimento e contribuir para projetos desafiadores! 🚀  
 
 <div>
 <a href="https://github.com/jesusnicollas">
