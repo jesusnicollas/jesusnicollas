@@ -3,17 +3,18 @@
 Olá! 👋 Sou técnico em Informática e atuo na área de Tecnologia da Informação há 5 anos. Atualmente, sou **Administrador de Banco de Dados (DBA)** no time de desenvolvimento da Surf Telecom, onde trabalho para otimizar o desempenho das bases de dados, implementar melhorias e automatizar processos.  
 
 Estou no último semestre do curso de **Ciência da Computação** pela Universidade Paulista (UNIP). Tenho experiência em:  
-- Administração de bancos de dados (MySQL, PostgreSQL).  
+- Administração de bancos de dados (MySQL, PostgreSQL).
+- Engenharia de Dados
+- Utilização de ferramentass de Big Data
+- Apache Spark, Apache Delta Lake, AWS Glue, AWS Athena
 - Manipulação, extração e análise de dados.  
-- Automação de processos com **PL/SQL** e **Python**.  
+- Automação de processos com **Python**.  
 - Desenvolvimento de soluções voltadas para dados e infraestrutura.  
 
 Estou sempre buscando novas oportunidades para aprender, compartilhar conhecimento e contribuir para projetos desafiadores! 🚀  
 
 <div>
 <a href="https://github.com/jesusnicollas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusnicollas&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusnicollas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
