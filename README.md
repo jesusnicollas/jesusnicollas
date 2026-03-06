@@ -2,7 +2,7 @@
 
 Olá! 👋 Sou técnico em Informática e atuo na área de Tecnologia da Informação há 5 anos. Atualmente, sou **Administrador de Banco de Dados (DBA)** no time de desenvolvimento da Surf Telecom, onde trabalho para otimizar o desempenho das bases de dados, implementar melhorias e automatizar processos.  
 
-Estou no último semestre do curso de **Ciência da Computação** pela Universidade Paulista (UNIP). Tenho experiência em:  
+Sou formado no curso de **Ciência da Computação** pela Universidade Paulista (UNIP). Tenho experiência em:  
 - Administração de bancos de dados (MySQL, PostgreSQL).
 - Engenharia de Dados
 - Utilização de ferramentass de Big Data
